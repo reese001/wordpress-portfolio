@@ -1,0 +1,10 @@
+/**
+* Theme Name: Astra Child
+* Description: Child theme of Astra
+* Author: Reese Parsons
+* Template: astra
+*/
+
+.wp-block-column {
+    border-radius: 10px;
+}
